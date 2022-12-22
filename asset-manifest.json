@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chord-gen/static/css/main.dfc16372.css",
+    "main.js": "/chord-gen/static/js/main.1e71ae05.js",
+    "index.html": "/chord-gen/index.html",
+    "main.dfc16372.css.map": "/chord-gen/static/css/main.dfc16372.css.map",
+    "main.1e71ae05.js.map": "/chord-gen/static/js/main.1e71ae05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfc16372.css",
+    "static/js/main.1e71ae05.js"
+  ]
+}
